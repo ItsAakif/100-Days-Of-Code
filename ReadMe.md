@@ -1,6 +1,6 @@
 # 100 Days of Code 
 
-![100 Days of Code](./images/100DaysOfCode.png)
+![100 Days of Code](./Images/100DaysOfCode.png)
 
 Join the 100 Days of Code challenge and transform your coding skills. Commit to coding for at least an hour every day for 100 days. Access daily coding tasks, resources, and a supportive community. Start your coding journey today!
 
