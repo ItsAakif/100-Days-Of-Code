@@ -28,7 +28,7 @@ In this documentation, you'll find a comprehensive guide to the "100 Days of Cod
 
 This documentation is designed to be your companion throughout the "100 Days of Code" challenge, regardless of your coding experience. Whether you're a beginner or an experienced coder, you're invited to explore, learn, and embark on this coding adventure.
 
-👉 Start by checking out the [100 Days of Code Plan](plan.md) for a day-by-day breakdown of the entire challenge.
+👉 Start by checking out the [100 Days of Code Plan](Plan.md) for a day-by-day breakdown of the entire challenge.
 
 Let's code our way to success, one day at a time, and together, we'll unlock the incredible potential of daily coding practice!
 
