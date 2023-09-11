@@ -1,4 +1,14 @@
-# 100 Days of Code 
+
+
+<div align="center">
+  <h1> 100 Days Of Code</h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/aakifmudel/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+  <a class="header-badge" target="_blank" href="https://twitter.com/AakifHere">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Aakifhere?style=social">
+  </a>
+</div>
 
 ![100 Days of Code](./Images/100DaysOfCode.png)
 
@@ -28,8 +38,25 @@ In this documentation, you'll find a comprehensive guide to the "100 Days of Cod
 
 This documentation is designed to be your companion throughout the "100 Days of Code" challenge, regardless of your coding experience. Whether you're a beginner or an experienced coder, you're invited to explore, learn, and embark on this coding adventure.
 
-👉 Start by checking out the [100 Days of Code Plan](Plan.md) for a day-by-day breakdown of the entire challenge.
+👉 Start by checking out the [100 Days of Code Plan](plan.md) for a day-by-day breakdown of the entire challenge.
 
+If you are taking the challange dont forget to make a post using #100DaysOfCode on your social media and tagging me
+.
+
+## My Socials are:
+
+<div align="center">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/aakifmudel/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a class="header-badge" target="_blank" href="https://twitter.com/AakifHere">
+  <img alt="Twitter Follow" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a class="header-badge" target="_blank" href="https://www.instagram.com/aakif_here/">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</div>
+  
 Let's code our way to success, one day at a time, and together, we'll unlock the incredible potential of daily coding practice!
 
 # 100 Days of Code Plan
