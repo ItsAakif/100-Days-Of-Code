@@ -31,8 +31,7 @@ In this documentation, you'll find a comprehensive guide to the "100 Days of Cod
 - 📅 A detailed plan for each of the 100 days, breaking down coding tasks and projects.
 - 📚 Resources and links to tutorials, documentation, and coding exercises to support your learning journey.
 - 🗂️ Organization by programming languages, including HTML, CSS, JavaScript, Python, Java, and C++.
-- 🌐 Sections on web development, mobile app development, and open-source contribution.
-
+  
 
 ## Join the Challange
 
